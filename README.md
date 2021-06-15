@@ -2,7 +2,7 @@
 
 Hey 👋🏻,
 
-I am Vuong from Viet Nam [![vuongdttn](https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png)]. I am interested in, write about and develop (open source) with PHP
+I am Vuong from Viet Nam [![vuongdttn](https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png)]. I am interested in write and develop (open source) with PHP
 
 ## 🤜🏻🤛🏻 Support Me
 
