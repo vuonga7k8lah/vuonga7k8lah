@@ -1,4 +1,4 @@
-[![vuongdttn](https://i.ibb.co/Dgww71p/screenshot-2.jpg)][1]
+[![vuongdttn](https://i.ibb.co/cQfg54D/screenshot-2.png)][1]
 
 Hey 👋🏻,
 
