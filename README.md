@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://twitter.com/henrybui_io" target="blank">
-        <img src="https://img.shields.io/twitter/follow/henrybui_io?logo=twitter&style=for-the-badge" alt="henrybui_io" />
+        <img src="https://img.shields.io/facebook/follow/henrybui_io?logo=twitter&style=for-the-badge" alt="henrybui_io" />
     </a>
 </p>
 
