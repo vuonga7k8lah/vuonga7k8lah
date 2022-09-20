@@ -1,23 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Vuong Lee</h1>
-<h3 align="center">I'm a real web developer</h3>
+<h3 align="center">I'm a real web developer and software engineer</h3>
 
 <br />
 
-<p align="center">
-    <a href="https://www.facebook.com/vuongDTTN/" target="blank">
-        <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" alt="vuongfb" width="200" height="200"/>
-    </a>
-</p>
 
-<br />
-
-- 💬 Ask me about - **Laravel, Vue**
+- 💬 Ask me about - **Wordpress, Laravel, Vue**
 
 - 🌱 I’m currently learning - **React/NextJS and NodeJS**
-
-- ⚡ Fun fact - **I'm f*cking hate donut** 🍩
 
 - 📫 How to reach me - **vuongdttn1998@gmail.com**
 
@@ -25,13 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/henrybui_io" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henrybui_io" height="30" width="40" />
+     <a href="https://www.facebook.com/vuongDTTN/" target="blank">
+        <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" alt="vuongfb" width="40" height="30"/>
     </a>
-    <a href="https://linkedin.com/in/henryonsoftware" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henryonsoftware" height="30" width="40" />
+    <a href="https://join.skype.com/invite/utBIHMe34Nzz" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png" alt="henryonsoftware" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/henrybui_io" target="blank">
+    <a href="https://www.instagram.com/vuongkma/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henrybui_io" height="30" width="40" />
     </a>
 </p>
