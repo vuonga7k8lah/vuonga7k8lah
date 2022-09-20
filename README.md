@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://www.facebook.com/vuongDTTN/" target="blank">
-        <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" alt="vuongfb" width="200" height="300"/>
+        <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" alt="vuongfb" width="200" height="200"/>
     </a>
 </p>
 
