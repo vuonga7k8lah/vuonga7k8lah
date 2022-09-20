@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
      <a href="https://www.facebook.com/vuongDTTN/" target="blank">
-        <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" alt="vuongfb" height="30" width="40"/>
+        <img align="center" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" alt="vuongfb" height="30" width="40"/>
     </a>
     <a href="https://join.skype.com/invite/utBIHMe34Nzz" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png" alt="henryonsoftware" height="30" width="40" />
