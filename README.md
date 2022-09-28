@@ -6,9 +6,9 @@
 <br />
 
 
-- 💬 Ask me about - **Wordpress, Laravel, Vue**
+- 💬 Ask me about - **Wordpress, Laravel**
 
-- 🌱 I’m currently learning - **React/NextJS and NodeJS**
+- 🌱 I’m currently learning - **PHP and JAVA**
 
 - 📫 How to reach me - **vuongdttn1998@gmail.com**
 
