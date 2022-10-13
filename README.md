@@ -12,6 +12,8 @@
 
 - 📫 How to reach me - **vuongdttn1998@gmail.com**
 
+- 📫 Education: **Academy Of Cryptography Techniques**
+
 <br />
 
 <h3 align="left">Connect with me:</h3>
