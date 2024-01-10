@@ -13,6 +13,8 @@
 - 📫 How to reach me - **vuongdttn1998@gmail.com**
 
 - 📫 Education: **Academy Of Cryptography Techniques**
+  
+- ![](https://komarev.com/ghpvc/?username=vuonga7k8lah&style=flat-square&color=blueviolet)
 
 <br />
 
