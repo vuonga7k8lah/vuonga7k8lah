@@ -97,6 +97,12 @@
 
 <br />
 
-<p align="center">
-    <img src="[https://avatars.githubusercontent.com/u/38355047?v=4]" alt="vuongdttn" />
-</p>
+### GitHub Stats 📈
+
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangtran0410" alt="hoangtran0410" /></a> </p>-->
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=hoangtran0410&show_icons=true&locale=en&theme=tokyonight)
+
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=hoangtran0410&theme=tokyonight)
+
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=hoangtran0410&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
