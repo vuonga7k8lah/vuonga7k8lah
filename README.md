@@ -6,9 +6,9 @@
 <br />
 
 
-- 💬 Ask me about - **Wordpress, Laravel**
+- 💬 Ask me about - **Wordpress, Laravel, Magento**
 
-- 🌱 I’m currently learning - **PHP and JAVA**
+- 🌱 I’m currently work with language - **PHP and JAVA**
 
 - 📫 How to reach me - **vuongdttn1998@gmail.com**
 
