@@ -97,4 +97,4 @@
 
 ### Activity 👩‍💻
 
-![Hùng Vương wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vuonga7k8lah&theme=tokyonight)
+![Hùng Vương wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vuonga7k8lah&theme=tokyonight&layout=compact)
