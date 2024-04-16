@@ -95,6 +95,3 @@
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=vuonga7k8lah&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-### Activity 👩‍💻
-
-![Hùng Vương wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vuonga7k8lah&theme=tokyonight&layout=compact)
