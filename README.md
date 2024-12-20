@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,java,spring,js,ts,nodejs,react,redux,nextjs,tailwind,vite,mongodb,mysql,postgresql,elasticsearch,redis,kafka,docker,git,nginx,dart,flutter&theme=light" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,java,spring,js,ts,nodejs,react,redux,nextjs,tailwind,vite,mongodb,mysql,postgresql,elasticsearch,redis,kafka,docker,git,redis,nginx,dart,flutter&theme=light" alt="javascript" />
 </p>
 
 <br />
