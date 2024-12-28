@@ -48,11 +48,6 @@
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=vuonga7k8lah&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-<h3 align="left">🔭 GitHub Highlights:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vuonga7k8lah&show_icons=true&locale=en&theme=material-palenight" alt="vuonga7k8lah" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vuonga7k8lah&theme=material-palenight" alt="vuonga7k8lah" /></p>
-
 <h3 align="left">🏆 Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuonga7k8lah&theme=gruvbox" alt="vuonga7k8lah" /></a> </p>
 
