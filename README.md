@@ -6,9 +6,9 @@
 <br />
 
 
-- 💬 Ask me about - **Wordpress, Laravel, Magento**
+- 💬 Ask me about - **Spring boot, Wordpress, Laravel, Magento**
 
-- 🌱 I’m currently work with language - **PHP, JAVA, JS**
+- 🌱 I’m currently work with language - **PHP, JAVA, JS, TS, Dart**
 
 - 📫 How to reach me - **vuongdttn1998@gmail.com**
 
