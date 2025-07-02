@@ -6,7 +6,7 @@
 <br />
 
 
-- 💬 Ask me about - **Spring boot, Wordpress, Laravel, Magento**
+- 💬 Ask me about - **Spring boot, Wordpress, Laravel, Magento, Nestjs**
 
 - 🌱 I’m currently work with language - **PHP, JAVA, JS, TS, Dart**
 
@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,java,spring,js,ts,nodejs,react,redux,nextjs,tailwind,vite,mongodb,mysql,postgresql,elasticsearch,redis,kafka,docker,git,redis,nginx,dart,flutter&theme=light" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,java,spring,js,ts,nodejs,react,redux,nextjs,nestjs,tailwind,vite,mongodb,mysql,postgresql,elasticsearch,redis,kafka,docker,git,redis,nginx,dart,flutter,idea&theme=light" alt="javascript" />
 </p>
 
 <br />
