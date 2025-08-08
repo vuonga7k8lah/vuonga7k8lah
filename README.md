@@ -1,6 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm Hung Vuong</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hung+Vuong!;" />
+</h1>
 <h3 align="center">I'm a real web developer and software engineer</h3>
 
 <br />
@@ -16,7 +19,7 @@
   
 - ![](https://komarev.com/ghpvc/?username=vuonga7k8lah&style=flat-square&color=blueviolet)
 
-<br />
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,14 +34,22 @@
     </a>
 </p>
 
-<br />
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,java,spring,js,ts,nodejs,react,redux,nextjs,nestjs,tailwind,vite,mongodb,mysql,postgresql,elasticsearch,redis,kafka,docker,git,redis,nginx,dart,flutter,idea&theme=light" alt="javascript" />
 </p>
-
-<br />
+<hr>
+<div align = "center">
+<h2 align = "center" style="margin-top:20px ">🔥 Most Language Used Last a Month 🔥</h2> 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@vuonga7k8lah" /></a>
+</div>
+<hr>
+<h2 align = "center" style="margin-top:20px ">🕘 WakaTime 🕘</h2> 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
 
 ### GitHub Stats 📈
 
